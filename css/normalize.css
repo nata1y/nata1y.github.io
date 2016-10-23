@@ -425,3 +425,9 @@ td,
 th {
   padding: 0;
 }
+
+.image{
+	width:10%; 
+	height:10%;
+	cursor:pointer;
+}
